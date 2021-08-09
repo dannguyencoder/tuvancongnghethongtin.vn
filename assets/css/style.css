@@ -1047,6 +1047,24 @@ div[class^="col-"]:nth-child(1n) table {
 .ct-u-text--white h6 {
   color: #fff !important;
 }
+
+/* Add ct-u-text--black */
+.ct-u-text--black {
+  color: #000000 !important;
+}
+.ct-u-text--black span,
+.ct-u-text--black p {
+  color: #000000 !important;
+}
+.ct-u-text--black h1,
+.ct-u-text--black h2,
+.ct-u-text--black h3,
+.ct-u-text--black h4,
+.ct-u-text--black h5,
+.ct-u-text--black h6 {
+  color: #000000 !important;
+}
+
 .ct-u-image--full-width img {
   width: 100%;
 }
